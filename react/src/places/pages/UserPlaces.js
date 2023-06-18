@@ -1,12 +1,12 @@
 import React from 'react'
-import { useParams } from 'react-router-dom/cjs/react-router-dom'
+import { useParams } from 'react-router-dom'
 
 import PlaceList from '../components/PlaceList'
 
 const DUMMY_PLACES = [
     {
         id: 'p1',
-        title: 'Empire State Building bro',
+        title: 'Empire State Building',
         description: 'One of New York\'s iconic sky scrapers',
         imageUrl: 'https://www.takewalks.com/blog/wp-content/uploads/2013/07/empire-state-building-nyc-skyline.jpg',
         location: {

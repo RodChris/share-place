@@ -10,7 +10,7 @@ const Users = () => {
             id: 'u1',
             image: img,
             name: 'Christian Rodriguez',
-            places: 3,
+            places: 1,
         }
     ]
 
